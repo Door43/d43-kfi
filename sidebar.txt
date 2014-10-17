@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kfi:home|Door43 (kfi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kfi|d43-kfi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kfi/archive/master.zip|d43-kfi.zip]]
+
+**Recent Changes**
+{{changes>ns = kfi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kfi|Ethnologue data]]
+
